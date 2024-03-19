@@ -10,14 +10,19 @@ The 229th Squadron is a dedicated group of virtual pilots passionate about tacti
 
 ## Documentation Structure
 
-Our documentation is organized into the following categories:
+## Guides and Manuals:
+        
+ - Comprehensive guides covering various aspects of tactical training in DCS, including in-depth information on aircraft     systems, controls, operations, and tactical maneuvers.
 
-- **Training Manuals**: Comprehensive guides covering various aspects of tactical training in DCS.
-- **Mission Briefs**: Detailed briefings for upcoming missions, including objectives, roles, and procedures.
-- **Aircraft Guides**: In-depth information on aircraft systems, controls, and operations.
-- **Tactics and Procedures**: Tactical maneuvers, communication protocols, and standard operating procedures (SOPs).
-- **FAQs**: Frequently asked questions and troubleshooting tips for common issues.
-- **Resources**: Additional materials, links, and references to support training and mission planning.
+ - In-depth training manuals covering aircraft-specific procedures, tactics, and standard operating procedures (SOPs).
+
+## Mission Briefs: Detailed briefings for upcoming missions, including objectives, roles, and procedures.
+
+## Tactics and Procedures: Tactical maneuvers, communication protocols, and SOPs.
+
+## FAQs: Frequently asked questions and troubleshooting tips for common issues.
+
+## Resources: Additional materials, links, and references to support training and mission planning.
 
 ## How to Contribute
 
